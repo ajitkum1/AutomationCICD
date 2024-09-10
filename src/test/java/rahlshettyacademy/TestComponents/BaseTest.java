@@ -63,6 +63,7 @@ public class BaseTest {
 		 * driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		 * driver.manage().window().maximize(); // maximize Window return driver;
 		 */
+		// Test
 
 		if (browserName.contains("chrome")) {
 			ChromeOptions options = new ChromeOptions();
